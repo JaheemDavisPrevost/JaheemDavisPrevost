@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jaheem Prevost
 - 👀 I’m interested in programming, gamedev, robotics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on many things
+- 📫 How to reach me: jaheemdp@gmail.com
 
 <!---
 JaheemDavisPrevost/JaheemDavisPrevost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
